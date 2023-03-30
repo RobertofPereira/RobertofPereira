@@ -11,6 +11,7 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Php" height="40" width="45" src="https://icongr.am/devicon/phpstorm-original.svg?size=148&color=currentColor">
+  <img align="center" alt="dart"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.tenor.com/BOuLnvwBaYEAAAAM/aot-aot-annie.gif">
   
 </div>
