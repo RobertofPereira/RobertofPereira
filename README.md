@@ -1,4 +1,4 @@
-## Oii! Eu sou Roberto Pereira designer, ilustrador e programador front UI & UX
+## Oii! Eu sou Roberto, designer, ilustrador e programador front UI & UX
 
 <div align="center">
   <a href="https://github.com/RobertofPereira">
